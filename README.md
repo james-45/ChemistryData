@@ -1,2 +1,2 @@
 # ChemistryData
-No laboratório sempre fazemos muitas replicatas de um experimento e isso gera um alto volume de dados a serem tratados, por consequência, tempo empregado no tratamento deles. Assim, desenvolvi essa ferramenta para que esse tempo seja o menor possível.
+In the laboratory, we always make many replicates of an experiment and this generates a high volume of data to be processed, consequently, time spent on processing them. So, I developed this tool so that this time is as short as possible and I can turn my attention to the interpretation and analysis of results.
